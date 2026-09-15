@@ -1,0 +1,42 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Mon, 14 Sep 2026 23:57:08 +0000
+Label: Sifter
+Origin: Sifter
+Suite: stable
+MD5Sum:
+ cae0965a9acae2627f0dbf350fc07a6c              136 Release
+ 44f9f1d37eaf003a7fa65dfe068f43b2              648 main/binary-amd64/Packages
+ 4fcc7c9b4c84776f2dc0738d0c78c5b7              470 main/binary-amd64/Packages.gz
+SHA1:
+ 1fe0cee18d18edd127fdeae33633d09f8b359271              136 Release
+ 3b967aa54e15410302de5a98e5e2edc109778dbf              648 main/binary-amd64/Packages
+ ef62f156ff71547d9543def62062c2185356d93f              470 main/binary-amd64/Packages.gz
+SHA256:
+ f3ad60527631b231ca34267360780f7c1ca03a048f2ef03de47d9369c8377ff5              136 Release
+ cc7189e22b977ceeb650d309e1497d13da4d52548b69929e3d4639bf0db9db0b              648 main/binary-amd64/Packages
+ 1191dec181058b3bf5218358d8d5ea9ea54e16f12beead18fd483a2784c5e147              470 main/binary-amd64/Packages.gz
+SHA512:
+ d972aa1ba13cff4ae4d72fdbc1ee2717a576bd2aa9097b440c557e5808684aa500f4baf8561cf27f0da6d98c35ff36e7e871683ee104977991b42b9322d91c58              136 Release
+ 7207555a54e74842d6ca183ff1c985ee79fdc2ebc97b11a546b0a8588d0d1fe95d58b6643b6c4b467d8d363df3aea120912124bf0c3a724a0dc5fad453b7b882              648 main/binary-amd64/Packages
+ fad5202bdd6cdce729aaf8428a557e66899dcb39f5509421bd30fc5b7f474947c203d45090bf95902567277092e61a063a10c56af5f6c7e35c93613848dca3d7              470 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEkxL2ETbGYajCVQbAY6cRi4Tt8WAFAmqoidQACgkQY6cRi4Tt
+8WBTaw//YuheoS+g4HUf6NdqvTKKkLWtdVmlXlb6O/Wzh/ZU3yKdkqRVXEHTn7g8
+KF/hKhAo7ozV4zvBKKq/3Rh4pIdH5I+uMakiNPLJBJkqr3c9BjJRt9dsSkPi48eu
+smN4Gc9PZnFy8G/Vg2Z6iI3/mir6QDlTiQMI2h9PkqWnNsrHSrVF5grdizdc+WmX
+T5LMRD9/mOZSL/YqE/u/btV3xk6tOIwM/Z497fek11Oa8YrgOrYV/2j4umjd92YI
+hVLy//+XOo6Dm2vE1VxPl/fXtfKK9s109SunBJ42pP+7nrD1pU0JTiu3ZZ3mOLot
+G+UPXrR7lH6iuDm69/Et74Skpe/waME8NiobMpm+dnXJlUfnwenfesEWbdhqqfTQ
+jPhIc/967fPVtgyzY681jIBwTBsA3qble9hotObRj6YA7nTibyeqyxMMz1LTMdfl
+XilpSFaHsCIoSU/TBE89iwdT3JEBWf+FuTrrN7OEL4Urx1GBv+vh/XaC6sliUiUg
+qaDZ7f+QV8ulAA8meVJhL5rQZFGJ3IKgGZKI+6UjaJmzKsPpCazJYm2UQ320b6+/
+NHRuhlHGn+XXVp4xECLZabs1o+zOd6XwKOf7If0bii2s2WHEGP/Ofhl70lKjPOOn
+5Mxk1ImyYAJali3amWJInZs7UcJcXniBl6R4MZqQdL25pF3RTfA=
+=mXls
+-----END PGP SIGNATURE-----
