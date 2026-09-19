@@ -1,0 +1,16 @@
+Package: sifter
+Architecture: amd64
+Version: 0.3.201
+Priority: optional
+Maintainer: siftergames
+Installed-Size: 79284
+Depends: libayatana-appindicator3-1, libappindicator3-1, libwebkit2gtk-4.1-0, libgtk-3-0
+Filename: pool/main/s/sifter/sifter_0.3.201_amd64.deb
+Size: 28808056
+MD5sum: ff43f943c309fd267c1a7a2eb15f42e0
+SHA1: 00e15a253434e8c99b15be387f3a8ab1e3e9b76a
+SHA256: c00855dcb010f0fd850f35830e98ad43964173822cd196e49233da26c3c88c26
+SHA512: 77e7a93bd8e5682df83c9cb5458c4b8928e903b70f998b63368028dbc150d80207c64e25cc42403d1de9ec6bc8db3df4969c0aa75f3e0b1efdee1d5163cf458a
+Description: Sifter — a native shell around the Sifter website
+ (none)
+
