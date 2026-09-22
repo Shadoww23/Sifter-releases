@@ -1,0 +1,23 @@
+Architectures: amd64
+Codename: stable
+Components: main
+Date: Tue, 22 Sep 2026 23:44:21 +0000
+Label: Sifter
+Origin: Sifter
+Suite: stable
+MD5Sum:
+ 943a4af1637b14b80669c76a27d7778c              136 Release
+ afd7df316f40e5c1b45965061b6dd433              648 main/binary-amd64/Packages
+ 6c1fe4533fd69c1a5f241ac7223c8668              471 main/binary-amd64/Packages.gz
+SHA1:
+ f24b56aa3c5dee37a5573acb0f4b07b2583fe923              136 Release
+ 4ac62440c30c9344aac855cafa0c5b14326164ed              648 main/binary-amd64/Packages
+ c07bdda871b28edb12ffec8c14550b404d5903e6              471 main/binary-amd64/Packages.gz
+SHA256:
+ b230a0b618f29efa2618e46f0b3416fb05e124d7c4238688397b07afe222773d              136 Release
+ ca34832cd1e51736a604f40131493b90aeefc8788957ade3ee230745c143be4b              648 main/binary-amd64/Packages
+ 0d885c15c59d517cdeb396a89695aee360dfba34a0a721959559c9cf35a7c67e              471 main/binary-amd64/Packages.gz
+SHA512:
+ 5338e96c6199e15e91a385c73b45939a1563b7730f1d8903d77da54fdc95a289f811af46589179c899fba0fd3dacca9cbf0da1954d9bb9c60cc569b927c8a66d              136 Release
+ 721040932e251dd55c41e7396f7715baeab20a48568aafea4862bf11b022b255c8a71905c5c99a1055a34794c3b3056008305d91f387a8df8cdadfbed2675855              648 main/binary-amd64/Packages
+ 92df5a1ec4ae3169a3bcb8551bab70f7416941a86414c2645f8b01f7cae5aec388e971811f10b0720a403236b4936b63765dd0df58d148ee3948609fb4445fc0              471 main/binary-amd64/Packages.gz
